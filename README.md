@@ -23,7 +23,6 @@ Start electron application
 electron .
 ```
 
-
 > requires electron installed globally with `npm i -g electron`
 
 ## Envs
